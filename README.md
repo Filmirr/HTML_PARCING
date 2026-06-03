@@ -130,5 +130,5 @@ lxml
 
 Made by **[Your Name]** — Python developer open to freelance projects.
 
-- Telegram: [@your_handle](https://t.me/@Fillmirr)
-- GitHub: [github.com/your-username]([https://github.com/your-username](https://github.com/Filmirr))
+- Telegram: [@Filmir](https://t.me/@Fillmirr)
+- GitHub: [github.com/Filmir]([https://github.com/your-username](https://github.com/Filmirr))
